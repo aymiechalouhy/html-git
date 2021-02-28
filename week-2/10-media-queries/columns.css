@@ -1,1 +1,7 @@
 /* Add your own CSS code below */
+
+/*@media only screen and (max-width: 800px){*/
+.countries {
+    column-count: 2;
+    width:800px;
+  }
